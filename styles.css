@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    font-size: 35px;
+    color: yellow;
+    background-color: yellowgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: green;
+    padding: 5px;
+
+}
+
+a {
+    color: darkcyan;
+    background-color: palegreen;
+}
