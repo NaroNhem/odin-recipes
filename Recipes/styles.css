@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "my font";
+    src: url("ITCAvantGardeStd-XLtCn.otf");
+}
+
+html {
+    font-family: "my font";
+    background-color: aliceblue;
+}
+h1 {
+    text-align: center;
+}
+
+img {
+    border-radius: 5px;
+    max-width: 300px;
+}
+
+h2 {
+    text-align: center;
+}
